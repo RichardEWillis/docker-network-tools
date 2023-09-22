@@ -17,7 +17,6 @@ RUN apk -U upgrade \
         findutils \
         fping \
         git \
-        gping \
         ipcalc \
         iperf \
         iperf3 \
