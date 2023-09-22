@@ -20,6 +20,7 @@ RUN apk -U upgrade \
         gping \
         ipcalc \
         iperf \
+        iperf3 \
         iproute2 \
         iputils \
         jq \
